@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C9" format="1">
+  <advance width="696"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="606" y="741" type="line"/>
+      <point x="90" y="741" type="line"/>
+      <point x="90" y="509" type="line"/>
+      <point x="606" y="509" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni02C9</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>696</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="864"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="836" y="318" type="line"/>
+      <point x="474" y="318" type="line"/>
+      <point x="474" y="843" type="line"/>
+      <point x="706" y="923" type="line"/>
+      <point x="706" y="1155" type="line"/>
+      <point x="474" y="1075" type="line"/>
+      <point x="474" y="1761" type="line"/>
+      <point x="122" y="1761" type="line"/>
+      <point x="122" y="956" type="line"/>
+      <point x="-1" y="916" type="line"/>
+      <point x="-1" y="684" type="line"/>
+      <point x="122" y="724" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="836" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>864</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
