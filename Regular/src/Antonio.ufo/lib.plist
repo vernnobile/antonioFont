@@ -24,16 +24,20 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<true/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/vern/GitHub/antonioFont/Regular/src/Antonio.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -81,9 +85,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>420</integer>
+			<integer>558</integer>
 			<key>y</key>
-			<integer>126</integer>
+			<integer>119</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="1">
-  <advance width="952"/>
+  <advance width="819"/>
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="56" y="-250" type="line"/>
-      <point x="460" y="-250" type="line" smooth="yes"/>
-      <point x="589" y="-250"/>
-      <point x="641" y="-192"/>
-      <point x="657" y="-78" type="curve" smooth="yes"/>
-      <point x="935" y="1501" type="line"/>
-      <point x="594" y="1501" type="line"/>
-      <point x="522" y="815" type="line"/>
-      <point x="495" y="483" type="line"/>
-      <point x="480" y="483" type="line"/>
-      <point x="448" y="815" type="line"/>
-      <point x="374" y="1501" type="line"/>
-      <point x="29" y="1501" type="line"/>
-      <point x="260" y="91" type="line" smooth="yes"/>
-      <point x="263" y="69"/>
-      <point x="265" y="52"/>
-      <point x="265" y="39" type="curve" smooth="yes"/>
-      <point x="265" y="-15"/>
-      <point x="230" y="-23"/>
-      <point x="168" y="-23" type="curve" smooth="yes"/>
-      <point x="56" y="-23" type="line"/>
+      <point x="116" y="-242" type="line"/>
+      <point x="238" y="-242" type="line" smooth="yes"/>
+      <point x="459" y="-242"/>
+      <point x="487" y="-135"/>
+      <point x="515" y="40" type="curve" smooth="yes"/>
+      <point x="747" y="1500" type="line"/>
+      <point x="572" y="1500" type="line"/>
+      <point x="471" y="691" type="line"/>
+      <point x="434" y="358" type="line"/>
+      <point x="429" y="358" type="line"/>
+      <point x="389" y="691" type="line"/>
+      <point x="279" y="1500" type="line"/>
+      <point x="103" y="1500" type="line"/>
+      <point x="351" y="43" type="line" smooth="yes"/>
+      <point x="371" y="-77"/>
+      <point x="341" y="-105"/>
+      <point x="228" y="-105" type="curve" smooth="yes"/>
+      <point x="116" y="-105" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>952</integer>
+          <integer>819</integer>
         </dict>
       </dict>
     </dict>

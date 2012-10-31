@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="1312"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="551" y="317" type="line" smooth="yes"/>
+      <point x="469" y="317"/>
+      <point x="465" y="378"/>
+      <point x="465" y="470" type="curve" smooth="yes"/>
+      <point x="465" y="1322" type="line" smooth="yes"/>
+      <point x="465" y="1397"/>
+      <point x="483" y="1440"/>
+      <point x="551" y="1440" type="curve" smooth="yes"/>
+      <point x="624" y="1440" type="line"/>
+      <point x="624" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="1224" y="0" type="line"/>
+      <point x="1224" y="318" type="line"/>
+      <point x="984" y="318" type="line"/>
+      <point x="984" y="746" type="line"/>
+      <point x="1187" y="746" type="line"/>
+      <point x="1187" y="1065" type="line"/>
+      <point x="984" y="1065" type="line"/>
+      <point x="984" y="1440" type="line"/>
+      <point x="1201" y="1440" type="line"/>
+      <point x="1201" y="1761" type="line"/>
+      <point x="551" y="1761" type="line" smooth="yes"/>
+      <point x="269" y="1761"/>
+      <point x="105" y="1619"/>
+      <point x="105" y="1316" type="curve" smooth="yes"/>
+      <point x="105" y="475" type="line" smooth="yes"/>
+      <point x="105" y="162"/>
+      <point x="263" y="0"/>
+      <point x="551" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1312</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

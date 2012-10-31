@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="1099"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="773" y="-296.133789062" type="curve" smooth="yes"/>
+      <point x="773" y="-186.133789062"/>
+      <point x="849" y="-87.1337890625"/>
+      <point x="923" y="2.8662109375" type="curve"/>
+      <point x="782" y="2.8662109375" type="line"/>
+      <point x="606" y="-96.1337890625"/>
+      <point x="528" y="-236.133789062"/>
+      <point x="528" y="-357.133789062" type="curve" smooth="yes"/>
+      <point x="528" y="-531.133789062"/>
+      <point x="645" y="-623.133789062"/>
+      <point x="835" y="-623.133789062" type="curve" smooth="yes"/>
+      <point x="903" y="-623.133789062"/>
+      <point x="981" y="-601.133789062"/>
+      <point x="1004" y="-588.133789062" type="curve"/>
+      <point x="1004" y="-415.133789062" type="line"/>
+      <point x="980" y="-420.133789062"/>
+      <point x="954" y="-423.133789062"/>
+      <point x="929" y="-423.133789062" type="curve" smooth="yes"/>
+      <point x="849" y="-423.133789062"/>
+      <point x="773" y="-393.133789062"/>
+    </contour>
+    <contour>
+      <point x="545" y="264.0" type="curve" smooth="yes"/>
+      <point x="457" y="264.0"/>
+      <point x="465" y="342.0"/>
+      <point x="465" y="455.0" type="curve" smooth="yes"/>
+      <point x="465" y="1500.0" type="line"/>
+      <point x="105" y="1500.0" type="line"/>
+      <point x="105" y="383.0" type="line" smooth="yes"/>
+      <point x="105" y="143.0"/>
+      <point x="157" y="-18.0"/>
+      <point x="398" y="-18.0" type="curve" smooth="yes"/>
+      <point x="534" y="-18.0"/>
+      <point x="583" y="45.0"/>
+      <point x="629" y="160.0" type="curve"/>
+      <point x="629" y="0.0" type="line"/>
+      <point x="987" y="0.0" type="line"/>
+      <point x="987" y="1500.0" type="line"/>
+      <point x="631" y="1500.0" type="line"/>
+      <point x="629" y="443.0" type="line"/>
+      <point x="629" y="360.0"/>
+      <point x="628" y="264.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1099</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecaron" format="1">
+  <advance width="1064"/>
+  <unicode hex="011B"/>
+  <outline>
+    <contour>
+      <point x="743" y="1681" type="line"/>
+      <point x="984" y="2084" type="line"/>
+      <point x="625" y="2084" type="line"/>
+      <point x="539" y="1799" type="line"/>
+      <point x="453" y="2084" type="line"/>
+      <point x="94" y="2084" type="line"/>
+      <point x="335" y="1681" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="1081" type="line" smooth="yes"/>
+      <point x="454" y="1170"/>
+      <point x="457" y="1249"/>
+      <point x="544" y="1249" type="curve" smooth="yes"/>
+      <point x="597" y="1249"/>
+      <point x="624" y="1195"/>
+      <point x="624" y="1087" type="curve" smooth="yes"/>
+      <point x="624" y="895" type="line"/>
+      <point x="454" y="895" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="579" type="line"/>
+      <point x="624" y="431" type="line" smooth="yes"/>
+      <point x="624" y="343"/>
+      <point x="628" y="260"/>
+      <point x="542" y="260" type="curve" smooth="yes"/>
+      <point x="462" y="260"/>
+      <point x="456" y="346"/>
+      <point x="456" y="427" type="curve" smooth="yes"/>
+      <point x="456" y="717" type="line"/>
+      <point x="976" y="717" type="line"/>
+      <point x="976" y="1092" type="line" smooth="yes"/>
+      <point x="976" y="1376"/>
+      <point x="836" y="1518"/>
+      <point x="548" y="1518" type="curve" smooth="yes"/>
+      <point x="268" y="1518"/>
+      <point x="98" y="1371"/>
+      <point x="98" y="1092" type="curve" smooth="yes"/>
+      <point x="98" y="489" type="line" smooth="yes"/>
+      <point x="98" y="170"/>
+      <point x="209" y="-18"/>
+      <point x="530" y="-18" type="curve" smooth="yes"/>
+      <point x="870" y="-18"/>
+      <point x="976" y="138"/>
+      <point x="976" y="475" type="curve" smooth="yes"/>
+      <point x="976" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1064</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

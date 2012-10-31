@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="1">
+  <advance width="1110"/>
+  <unicode hex="016C"/>
+  <outline>
+    <contour>
+      <point x="555" y="2134" type="curve" smooth="yes"/>
+      <point x="472" y="2134"/>
+      <point x="420" y="2152"/>
+      <point x="420" y="2277" type="curve"/>
+      <point x="202" y="2277" type="line"/>
+      <point x="202" y="2262" type="line" smooth="yes"/>
+      <point x="202" y="2045"/>
+      <point x="319" y="1944"/>
+      <point x="553" y="1944" type="curve" smooth="yes"/>
+      <point x="793" y="1944"/>
+      <point x="908" y="2041"/>
+      <point x="908" y="2264" type="curve" smooth="yes"/>
+      <point x="908" y="2277" type="line"/>
+      <point x="690" y="2277" type="line"/>
+      <point x="690" y="2152"/>
+      <point x="638" y="2134"/>
+    </contour>
+    <contour>
+      <point x="556" y="-21" type="curve" smooth="yes"/>
+      <point x="849" y="-21"/>
+      <point x="1000" y="132"/>
+      <point x="1000" y="452" type="curve" smooth="yes"/>
+      <point x="1000" y="1761" type="line"/>
+      <point x="640" y="1761" type="line"/>
+      <point x="640" y="457" type="line" smooth="yes"/>
+      <point x="640" y="368"/>
+      <point x="635" y="294"/>
+      <point x="554" y="294" type="curve" smooth="yes"/>
+      <point x="474" y="294"/>
+      <point x="470" y="369"/>
+      <point x="470" y="457" type="curve" smooth="yes"/>
+      <point x="470" y="1761" type="line"/>
+      <point x="110" y="1761" type="line"/>
+      <point x="110" y="452" type="line" smooth="yes"/>
+      <point x="110" y="132"/>
+      <point x="263" y="-21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ubreve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1110</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
