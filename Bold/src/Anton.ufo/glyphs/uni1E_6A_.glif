@@ -3,7 +3,28 @@
   <advance width="834"/>
   <unicode hex="1E6A"/>
   <outline>
-    <component base="T"/>
-    <component base="uni0307" xOffset="131" yOffset="352"/>
+    <contour>
+      <point x="238" y="1944" type="line"/>
+      <point x="596" y="1944" type="line"/>
+      <point x="596" y="2242" type="line"/>
+      <point x="238" y="2242" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="1439" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="1439" type="line"/>
+      <point x="802" y="1439" type="line"/>
+      <point x="802" y="1761" type="line"/>
+      <point x="32" y="1761" type="line"/>
+      <point x="32" y="1439" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

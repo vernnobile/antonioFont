@@ -5,21 +5,28 @@
   <outline>
     <contour>
       <point x="188" y="1135" type="line"/>
-      <point x="254" y="1464" type="line"/>
-      <point x="127" y="1464" type="line"/>
-      <point x="127" y="1769" type="line"/>
-      <point x="501" y="1769" type="line"/>
-      <point x="501" y="1473" type="line"/>
       <point x="399" y="1135" type="line"/>
+      <point x="501" y="1473" type="line"/>
+      <point x="501" y="1769" type="line"/>
+      <point x="127" y="1769" type="line"/>
+      <point x="127" y="1464" type="line"/>
+      <point x="254" y="1464" type="line"/>
     </contour>
     <contour>
       <point x="669" y="1135" type="line"/>
-      <point x="735" y="1464" type="line"/>
-      <point x="608" y="1464" type="line"/>
-      <point x="608" y="1769" type="line"/>
-      <point x="982" y="1769" type="line"/>
-      <point x="982" y="1473" type="line"/>
       <point x="880" y="1135" type="line"/>
+      <point x="982" y="1473" type="line"/>
+      <point x="982" y="1769" type="line"/>
+      <point x="608" y="1769" type="line"/>
+      <point x="608" y="1464" type="line"/>
+      <point x="735" y="1464" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
