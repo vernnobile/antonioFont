@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="724"/>
+  <advance width="664"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="508" y="1500" type="line"/>
-      <point x="394" y="577" type="line"/>
-      <point x="364" y="273" type="line"/>
-      <point x="360" y="273" type="line"/>
-      <point x="331" y="576" type="line"/>
-      <point x="221" y="1500" type="line"/>
-      <point x="61" y="1500" type="line"/>
-      <point x="268" y="0" type="line"/>
-      <point x="451" y="0" type="line"/>
-      <point x="663" y="1500" type="line"/>
+      <point x="478" y="1500" type="line"/>
+      <point x="364" y="577" type="line"/>
+      <point x="334" y="273" type="line"/>
+      <point x="330" y="273" type="line"/>
+      <point x="301" y="576" type="line"/>
+      <point x="191" y="1500" type="line"/>
+      <point x="31" y="1500" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="633" y="1500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>724</integer>
+          <integer>664</integer>
         </dict>
       </dict>
     </dict>
