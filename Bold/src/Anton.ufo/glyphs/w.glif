@@ -1,28 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1449"/>
+  <advance width="1441"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="477" y="570" type="line"/>
-      <point x="369" y="1500" type="line"/>
-      <point x="56" y="1500" type="line"/>
-      <point x="265" y="0" type="line"/>
-      <point x="621" y="0" type="line"/>
-      <point x="725" y="911" type="line"/>
-      <point x="833" y="0" type="line"/>
-      <point x="1189" y="0" type="line"/>
-      <point x="1393" y="1500" type="line"/>
-      <point x="1083" y="1500" type="line"/>
-      <point x="985" y="570" type="line"/>
-      <point x="869" y="1500" type="line"/>
-      <point x="562" y="1500" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="617" y="0"/>
+      <point x="789" y="1500"/>
+      <point x="789" y="1500" type="curve"/>
+      <point x="558" y="1500" type="line"/>
+      <point x="501" y="881" type="line"/>
+      <point x="474" y="570" type="line"/>
+      <point x="472" y="570" type="line"/>
+      <point x="437" y="880" type="line"/>
+      <point x="365" y="1500" type="line"/>
+      <point x="52" y="1500" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="0" type="line"/>
+      <point x="1185" y="0" type="line"/>
+      <point x="1389" y="1500" type="line"/>
+      <point x="1079" y="1500" type="line"/>
+      <point x="1013" y="875" type="line"/>
+      <point x="982" y="570" type="line"/>
+      <point x="980" y="570" type="line"/>
+      <point x="943" y="877" type="line"/>
+      <point x="865" y="1500" type="line"/>
+      <point x="651" y="1500" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>829.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1185.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1389.0</real>
+                  <key>y</key>
+                  <real>1500.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1079.0</real>
+                  <key>y</key>
+                  <real>1500.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>981.0</real>
+                  <key>y</key>
+                  <real>570.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>865.0</real>
+                  <key>y</key>
+                  <real>1500.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>651.0</real>
+                  <key>y</key>
+                  <real>1500.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1441</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

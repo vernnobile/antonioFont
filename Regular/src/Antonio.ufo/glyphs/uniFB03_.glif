@@ -4,6 +4,16 @@
   <unicode hex="FB03"/>
   <outline>
     <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="1190" type="line"/>
+      <point x="783" y="1190" type="line"/>
+      <point x="783" y="0" type="line"/>
+      <point x="1139" y="0" type="line"/>
+      <point x="1139" y="1190" type="line"/>
+      <point x="1421" y="1190" type="line"/>
+      <point x="1421" y="0" type="line"/>
+      <point x="1777" y="0" type="line"/>
       <point x="1777" y="1440" type="line"/>
       <point x="1139" y="1440" type="line"/>
       <point x="1139" y="1493" type="line" smooth="yes"/>
@@ -40,22 +50,12 @@
       <point x="34" y="1440" type="line"/>
       <point x="34" y="1190" type="line"/>
       <point x="130" y="1190" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="486" y="1190" type="line"/>
-      <point x="783" y="1190" type="line"/>
-      <point x="783" y="0" type="line"/>
-      <point x="1139" y="0" type="line"/>
-      <point x="1139" y="1190" type="line"/>
-      <point x="1421" y="1190" type="line"/>
-      <point x="1421" y="0" type="line"/>
-      <point x="1777" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1777" y="1800" type="line"/>
-      <point x="1421" y="1800" type="line"/>
       <point x="1421" y="1600" type="line"/>
       <point x="1777" y="1600" type="line"/>
+      <point x="1777" y="1800" type="line"/>
+      <point x="1421" y="1800" type="line"/>
     </contour>
   </outline>
   <lib>

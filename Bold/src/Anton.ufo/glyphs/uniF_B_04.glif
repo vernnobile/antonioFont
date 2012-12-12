@@ -4,6 +4,15 @@
   <unicode hex="FB04"/>
   <outline>
     <contour>
+      <point x="130.0" y="0.0" type="line"/>
+      <point x="486.0" y="0.0" type="line"/>
+      <point x="486.0" y="1190.0" type="line"/>
+      <point x="783.0" y="1190.0" type="line"/>
+      <point x="783.0" y="0.0" type="line"/>
+      <point x="1139.0" y="0.0" type="line"/>
+      <point x="1139.0" y="1190.0" type="line"/>
+      <point x="1253.0" y="1190.0" type="line"/>
+      <point x="1253.0" y="1440.0" type="line"/>
       <point x="1139" y="1440" type="line"/>
       <point x="1139" y="1539.00219727"/>
       <point x="1222.97177124" y="1560.24739075"/>
@@ -39,15 +48,6 @@
       <point x="34.0" y="1440.0" type="line"/>
       <point x="34.0" y="1190.0" type="line"/>
       <point x="130.0" y="1190.0" type="line"/>
-      <point x="130.0" y="0.0" type="line"/>
-      <point x="486.0" y="0.0" type="line"/>
-      <point x="486.0" y="1190.0" type="line"/>
-      <point x="783.0" y="1190.0" type="line"/>
-      <point x="783.0" y="0.0" type="line"/>
-      <point x="1139.0" y="0.0" type="line"/>
-      <point x="1139.0" y="1190.0" type="line"/>
-      <point x="1253.0" y="1190.0" type="line"/>
-      <point x="1253.0" y="1440.0" type="line"/>
     </contour>
   </outline>
   <lib>
