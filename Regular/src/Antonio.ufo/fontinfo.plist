@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>2408</integer>
+	<integer>1782</integer>
 	<key>capHeight</key>
-	<integer>1761</integer>
+	<integer>1760</integer>
 	<key>copyright</key>
 	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
 	<key>descender</key>
@@ -25,7 +25,7 @@
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>8</integer>
 	<key>openTypeHheaAscender</key>
-	<integer>2408</integer>
+	<integer>1638</integer>
 	<key>openTypeHheaCaretOffset</key>
 	<integer>0</integer>
 	<key>openTypeHheaCaretSlopeRise</key>
@@ -33,7 +33,7 @@
 	<key>openTypeHheaCaretSlopeRun</key>
 	<integer>0</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-647</integer>
+	<integer>-358</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
@@ -72,34 +72,13 @@
 	<key>openTypeOS2Selection</key>
 	<array>
 	</array>
-	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>530</integer>
-	<key>openTypeOS2StrikeoutSize</key>
-	<integer>102</integer>
-	<key>openTypeOS2SubscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SubscriptXSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SubscriptYOffset</key>
-	<integer>286</integer>
-	<key>openTypeOS2SubscriptYSize</key>
-	<integer>1433</integer>
-	<key>openTypeOS2SuperscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SuperscriptYOffset</key>
-	<integer>983</integer>
-	<key>openTypeOS2SuperscriptYSize</key>
-	<integer>1433</integer>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>1</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2408</integer>
+	<integer>1638</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-647</integer>
+	<integer>-358</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
@@ -128,21 +107,15 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>1</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2408</integer>
+	<integer>1638</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>674</integer>
+	<integer>358</integer>
 	<key>postscriptBlueScale</key>
 	<real>0.012375</real>
 	<key>postscriptBlueShift</key>
 	<integer>0</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-21</integer>
-		<integer>0</integer>
-		<integer>1500</integer>
-		<integer>1518</integer>
-		<integer>1761</integer>
-		<integer>1781</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>1099</integer>
@@ -152,18 +125,12 @@
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Anton</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Anton</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-300</integer>
-		<integer>-220</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
@@ -175,8 +142,6 @@
 	<integer>-358</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>102</integer>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

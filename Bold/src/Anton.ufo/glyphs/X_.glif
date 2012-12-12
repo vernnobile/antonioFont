@@ -4,24 +4,133 @@
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="364" y="0" type="line"/>
-      <point x="506" y="516" type="line"/>
+      <point x="5.0" y="0.0" type="line"/>
+      <point x="364.0" y="0.0" type="line"/>
+      <point x="563" y="697" type="line"/>
+      <point x="593.0" y="697.0" type="line"/>
+      <point x="943.0" y="1761.0" type="line"/>
+      <point x="596.0" y="1761.0" type="line"/>
+      <point x="389" y="1053" type="line"/>
+      <point x="331" y="1053" type="line"/>
+    </contour>
+    <contour>
       <point x="675" y="0" type="line"/>
       <point x="982" y="0" type="line"/>
-      <point x="672" y="918" type="line"/>
-      <point x="943" y="1761" type="line"/>
-      <point x="596" y="1761" type="line"/>
-      <point x="475" y="1301" type="line"/>
-      <point x="331" y="1761" type="line"/>
-      <point x="36" y="1761" type="line"/>
-      <point x="303" y="918" type="line"/>
-      <point x="5" y="0" type="line"/>
+      <point x="290" y="1761" type="line"/>
+      <point x="-5" y="1761" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>364</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>543</integer>
+                  <key>y</key>
+                  <integer>544</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>593</integer>
+                  <key>y</key>
+                  <integer>697</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>943</integer>
+                  <key>y</key>
+                  <integer>1761</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>596</integer>
+                  <key>y</key>
+                  <integer>1761</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>389</integer>
+                  <key>y</key>
+                  <integer>1145</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>331</integer>
+                  <key>y</key>
+                  <integer>973</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>5</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>X</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>983</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

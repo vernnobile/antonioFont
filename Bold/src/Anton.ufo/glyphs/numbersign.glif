@@ -4,18 +4,6 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="699" y="741" type="line"/>
-      <point x="533" y="741" type="line"/>
-      <point x="589" y="1023" type="line"/>
-      <point x="755" y="1023" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="741" type="line"/>
-      <point x="109" y="741" type="line"/>
-      <point x="109" y="509" type="line"/>
-      <point x="204" y="509" type="line"/>
-      <point x="105" y="0" type="line"/>
-      <point x="388" y="0" type="line"/>
       <point x="487" y="509" type="line"/>
       <point x="654" y="509" type="line"/>
       <point x="555" y="0" type="line"/>
@@ -38,6 +26,18 @@
       <point x="195" y="1255" type="line"/>
       <point x="195" y="1023" type="line"/>
       <point x="305" y="1023" type="line"/>
+      <point x="249" y="741" type="line"/>
+      <point x="109" y="741" type="line"/>
+      <point x="109" y="509" type="line"/>
+      <point x="204" y="509" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="589" y="1023" type="line"/>
+      <point x="755" y="1023" type="line"/>
+      <point x="699" y="741" type="line"/>
+      <point x="533" y="741" type="line"/>
     </contour>
   </outline>
   <lib>

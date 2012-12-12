@@ -4,28 +4,34 @@
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="644" y="1230" type="curve" smooth="yes"/>
-      <point x="644" y="1061"/>
-      <point x="636" y="993"/>
-      <point x="522" y="993" type="curve" smooth="yes"/>
-      <point x="482" y="993" type="line"/>
-      <point x="482" y="1490" type="line"/>
-      <point x="521" y="1490" type="line" smooth="yes"/>
-      <point x="634" y="1490"/>
-      <point x="644" y="1391"/>
-    </contour>
-    <contour>
-      <point x="1004" y="1224" type="curve" smooth="yes"/>
-      <point x="1004" y="1600"/>
-      <point x="893" y="1761"/>
-      <point x="601" y="1761" type="curve" smooth="yes"/>
-      <point x="122" y="1761" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="482" y="0" type="line"/>
       <point x="482" y="697" type="line"/>
       <point x="625" y="697" type="line" smooth="yes"/>
       <point x="917" y="697"/>
       <point x="1004" y="903"/>
+      <point x="1004" y="1224" type="curve" smooth="yes"/>
+      <point x="1004.0" y="1241.50968522"/>
+      <point x="1003.75928455" y="1258.55311979"/>
+      <point x="1003.27078446" y="1275.13575709" type="curve" smooth="yes"/>
+      <point x="993.269316805" y="1614.64585055"/>
+      <point x="879.402052969" y="1761.0"/>
+      <point x="601" y="1761" type="curve" smooth="yes"/>
+      <point x="122" y="1761" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="993" type="line"/>
+      <point x="482" y="1490" type="line"/>
+      <point x="521" y="1490" type="line" smooth="yes"/>
+      <point x="625.686238289" y="1490.0"/>
+      <point x="641.970998453" y="1405.03158899"/>
+      <point x="643.800572527" y="1264.51425949" type="curve" smooth="yes"/>
+      <point x="643.945869971" y="1253.35493604"/>
+      <point x="644.0" y="1241.84527111"/>
+      <point x="644" y="1230" type="curve" smooth="yes"/>
+      <point x="644" y="1061"/>
+      <point x="636" y="993"/>
+      <point x="522" y="993" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
