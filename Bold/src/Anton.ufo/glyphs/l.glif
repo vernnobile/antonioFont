@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="594"/>
+  <advance width="584"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
       <point x="115" y="0" type="line"/>
-      <point x="479" y="0" type="line"/>
-      <point x="479" y="1769" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="1769" type="line"/>
       <point x="115" y="1769" type="line"/>
     </contour>
   </outline>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>594</integer>
+          <integer>584</integer>
         </dict>
       </dict>
     </dict>

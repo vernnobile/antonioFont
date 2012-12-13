@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1058.0"/>
+  <advance width="1056.0"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="684.0" y="0.0" type="line"/>
-      <point x="1042.0" y="0.0" type="line"/>
-      <point x="778.0" y="767.0" type="line"/>
-      <point x="1026.0" y="1500.0" type="line"/>
-      <point x="664.0" y="1500.0" type="line"/>
-      <point x="664.0" y="1500.0"/>
-      <point x="434.0" y="777.0"/>
-      <point x="434.0" y="777.0" type="curve"/>
+      <point x="682.0" y="0.0" type="line"/>
+      <point x="1040.0" y="0.0" type="line"/>
+      <point x="776.0" y="767.0" type="line"/>
+      <point x="1024.0" y="1500.0" type="line"/>
+      <point x="662.0" y="1500.0" type="line"/>
+      <point x="662.0" y="1500.0"/>
+      <point x="432.0" y="777.0"/>
+      <point x="432.0" y="777.0" type="curve"/>
     </contour>
     <contour>
       <point x="110" y="0" type="line"/>
-      <point x="466" y="0" type="line"/>
-      <point x="466" y="1769" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="1769" type="line"/>
       <point x="110" y="1769" type="line"/>
     </contour>
   </outline>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1058.0</real>
+          <real>1056.0</real>
         </dict>
       </dict>
     </dict>
