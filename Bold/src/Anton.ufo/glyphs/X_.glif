@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="983"/>
+  <advance width="976"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
       <point x="5.0" y="0.0" type="line"/>
-      <point x="364.0" y="0.0" type="line"/>
-      <point x="563" y="697" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="567" y="697" type="line"/>
       <point x="593.0" y="697.0" type="line"/>
-      <point x="943.0" y="1761.0" type="line"/>
-      <point x="596.0" y="1761.0" type="line"/>
-      <point x="389" y="1053" type="line"/>
+      <point x="943" y="1760" type="line"/>
+      <point x="594" y="1760" type="line"/>
+      <point x="387" y="1053" type="line"/>
       <point x="331" y="1053" type="line"/>
     </contour>
     <contour>
       <point x="675" y="0" type="line"/>
       <point x="982" y="0" type="line"/>
-      <point x="290" y="1761" type="line"/>
-      <point x="-5" y="1761" type="line"/>
+      <point x="290" y="1760" type="line"/>
+      <point x="-5" y="1760" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -129,7 +129,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>983</integer>
+          <integer>976</integer>
         </dict>
       </dict>
     </dict>

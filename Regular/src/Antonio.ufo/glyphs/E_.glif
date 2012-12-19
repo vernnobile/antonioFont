@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="783"/>
+  <advance width="768"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -8,10 +8,10 @@
       <point x="657" y="0" type="line"/>
       <point x="657" y="136" type="line"/>
       <point x="340" y="136" type="line"/>
-      <point x="340" y="823" type="line"/>
-      <point x="639" y="823" type="line"/>
-      <point x="639" y="961" type="line"/>
-      <point x="340" y="961" type="line"/>
+      <point x="340" y="828" type="line"/>
+      <point x="639" y="828" type="line"/>
+      <point x="639" y="966" type="line"/>
+      <point x="340" y="966" type="line"/>
       <point x="340" y="1625" type="line"/>
       <point x="657" y="1625" type="line"/>
       <point x="657" y="1760" type="line"/>
@@ -167,7 +167,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>783</integer>
+          <integer>768</integer>
         </dict>
       </dict>
     </dict>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="614"/>
+  <advance width="592.0"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="434" y="-9" type="curve" smooth="yes"/>
-      <point x="550" y="-9" type="line"/>
-      <point x="550" y="130" type="line"/>
-      <point x="390" y="130"/>
-      <point x="378" y="141"/>
-      <point x="378" y="220" type="curve" smooth="yes"/>
-      <point x="378.0" y="1314.0" type="line"/>
-      <point x="550.0" y="1314.0" type="line"/>
-      <point x="550.0" y="1442.0" type="line"/>
-      <point x="378.0" y="1442.0" type="line"/>
-      <point x="378.0" y="1760.0" type="line"/>
-      <point x="210.0" y="1760.0" type="line"/>
-      <point x="210.0" y="1442.0" type="line"/>
-      <point x="64.0" y="1442.0" type="line"/>
-      <point x="64.0" y="1314.0" type="line"/>
-      <point x="210.0" y="1314.0" type="line"/>
-      <point x="210" y="219" type="line" smooth="yes"/>
-      <point x="210" y="50"/>
-      <point x="241" y="-9"/>
+      <point x="415.0" y="-9" type="curve" smooth="yes"/>
+      <point x="531.0" y="-9" type="line"/>
+      <point x="531.0" y="130" type="line"/>
+      <point x="371.0" y="130"/>
+      <point x="359.0" y="141"/>
+      <point x="359.0" y="220" type="curve" smooth="yes"/>
+      <point x="359" y="1372" type="line"/>
+      <point x="531" y="1372" type="line"/>
+      <point x="531" y="1500" type="line"/>
+      <point x="359" y="1500" type="line"/>
+      <point x="359.0" y="1760.0" type="line"/>
+      <point x="191.0" y="1760.0" type="line"/>
+      <point x="191" y="1500" type="line"/>
+      <point x="45" y="1500" type="line"/>
+      <point x="45" y="1372" type="line"/>
+      <point x="191" y="1372" type="line"/>
+      <point x="191.0" y="219" type="line" smooth="yes"/>
+      <point x="191.0" y="50"/>
+      <point x="222.0" y="-9"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>614</integer>
+          <real>592.0</real>
         </dict>
       </dict>
     </dict>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1441"/>
+  <advance width="1387"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="261" y="0" type="line"/>
-      <point x="617" y="0" type="line"/>
-      <point x="617" y="0"/>
-      <point x="789" y="1500"/>
-      <point x="789" y="1500" type="curve"/>
-      <point x="558" y="1500" type="line"/>
-      <point x="501" y="881" type="line"/>
-      <point x="474" y="570" type="line"/>
-      <point x="472" y="570" type="line"/>
-      <point x="437" y="880" type="line"/>
-      <point x="365" y="1500" type="line"/>
-      <point x="52" y="1500" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="541" y="0"/>
+      <point x="768" y="1500"/>
+      <point x="768" y="1500" type="curve"/>
+      <point x="527" y="1500" type="line"/>
+      <point x="464" y="1064" type="line"/>
+      <point x="425" y="733" type="line"/>
+      <point x="423" y="733" type="line"/>
+      <point x="385" y="1063" type="line"/>
+      <point x="324" y="1500" type="line"/>
+      <point x="34" y="1500" type="line"/>
     </contour>
     <contour>
-      <point x="829" y="0" type="line"/>
-      <point x="1185" y="0" type="line"/>
-      <point x="1389" y="1500" type="line"/>
-      <point x="1079" y="1500" type="line"/>
-      <point x="1013" y="875" type="line"/>
-      <point x="982" y="570" type="line"/>
-      <point x="980" y="570" type="line"/>
-      <point x="943" y="877" type="line"/>
-      <point x="865" y="1500" type="line"/>
-      <point x="651" y="1500" type="line"/>
+      <point x="851" y="0" type="line"/>
+      <point x="1147" y="0" type="line"/>
+      <point x="1351" y="1500" type="line"/>
+      <point x="1059" y="1500" type="line"/>
+      <point x="998" y="1058" type="line"/>
+      <point x="962" y="733" type="line"/>
+      <point x="960" y="733" type="line"/>
+      <point x="916" y="1060" type="line"/>
+      <point x="848" y="1500" type="line"/>
+      <point x="624" y="1500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>829.0</real>
+                  <real>801.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -63,7 +63,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>1185.0</real>
+                  <real>1157.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -73,7 +73,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>1389.0</real>
+                  <real>1361.0</real>
                   <key>y</key>
                   <real>1500.0</real>
                 </dict>
@@ -83,7 +83,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>1079.0</real>
+                  <real>1051.0</real>
                   <key>y</key>
                   <real>1500.0</real>
                 </dict>
@@ -93,7 +93,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>981.0</real>
+                  <real>953.0</real>
                   <key>y</key>
                   <real>570.0</real>
                 </dict>
@@ -103,7 +103,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>865.0</real>
+                  <real>837.0</real>
                   <key>y</key>
                   <real>1500.0</real>
                 </dict>
@@ -113,7 +113,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>651.0</real>
+                  <real>623.0</real>
                   <key>y</key>
                   <real>1500.0</real>
                 </dict>
@@ -129,7 +129,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1441</integer>
+          <integer>1387</integer>
         </dict>
       </dict>
     </dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="1">
-  <advance width="677"/>
+  <advance width="722"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="242" y="0" type="line"/>
-      <point x="602" y="0" type="line"/>
-      <point x="602" y="1761" type="line"/>
-      <point x="302" y="1761" type="line"/>
-      <point x="246" y="1629"/>
-      <point x="130" y="1556"/>
-      <point x="24" y="1541" type="curve"/>
-      <point x="24" y="1260" type="line"/>
-      <point x="98" y="1260"/>
-      <point x="194" y="1289"/>
-      <point x="242" y="1346" type="curve"/>
+      <point x="248" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="608" y="1761" type="line"/>
+      <point x="308" y="1761" type="line"/>
+      <point x="252" y="1629"/>
+      <point x="136" y="1556"/>
+      <point x="30" y="1541" type="curve"/>
+      <point x="30" y="1260" type="line"/>
+      <point x="104" y="1260"/>
+      <point x="200" y="1289"/>
+      <point x="248" y="1346" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>677</integer>
+          <integer>722</integer>
         </dict>
       </dict>
     </dict>

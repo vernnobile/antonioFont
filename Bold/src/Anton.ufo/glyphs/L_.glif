@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="866"/>
+  <advance width="834"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="124" y="0" type="line"/>
-      <point x="838" y="0" type="line"/>
-      <point x="838" y="318" type="line"/>
-      <point x="476" y="318" type="line"/>
-      <point x="476" y="1761" type="line"/>
-      <point x="124" y="1761" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="834" y="0" type="line"/>
+      <point x="834" y="313" type="line"/>
+      <point x="474" y="313" type="line"/>
+      <point x="474" y="1760" type="line"/>
+      <point x="114" y="1760" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>866</integer>
+          <integer>834</integer>
         </dict>
       </dict>
     </dict>
