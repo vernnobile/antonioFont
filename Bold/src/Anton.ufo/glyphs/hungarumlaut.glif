@@ -15,34 +15,8 @@
       <point x="860" y="1773" type="line"/>
       <point x="619" y="1294" type="line"/>
     </contour>
+    <contour>
+      <point x="661" y="0" type="move" name="_top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>hungarumlaut</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1300</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

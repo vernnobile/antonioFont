@@ -7,11 +7,11 @@
       <point x="114" y="0" type="line"/>
       <point x="474" y="0" type="line"/>
       <point x="474" y="803" type="line"/>
-      <point x="484.509636596" y="803.0"/>
-      <point x="494.687238969" y="802.859523983"/>
-      <point x="504.47363759" y="802.46167605" type="curve" smooth="yes"/>
-      <point x="581.287290594" y="799.338959079"/>
-      <point x="634.0" y="780.360294953"/>
+      <point x="484.51" y="803"/>
+      <point x="494.687" y="802.859"/>
+      <point x="504.474" y="802.462" type="curve" smooth="yes"/>
+      <point x="581.287" y="799.339"/>
+      <point x="634" y="780.36"/>
       <point x="634" y="689" type="curve" smooth="yes"/>
       <point x="634" y="0" type="line"/>
       <point x="994" y="0" type="line"/>
@@ -31,44 +31,21 @@
       <point x="476" y="1094" type="line"/>
       <point x="476" y="1490" type="line"/>
       <point x="509" y="1490" type="line" smooth="yes"/>
-      <point x="624.243898153" y="1490.0"/>
-      <point x="633.612449938" y="1444.21606644"/>
-      <point x="633.987218488" y="1314.45450615" type="curve" smooth="yes"/>
-      <point x="633.996181221" y="1311.35120887"/>
-      <point x="634.0" y="1308.19988096"/>
+      <point x="624.244" y="1490"/>
+      <point x="633.612" y="1444.22"/>
+      <point x="633.987" y="1314.45" type="curve" smooth="yes"/>
+      <point x="633.996" y="1311.35"/>
+      <point x="634" y="1308.2"/>
       <point x="634" y="1305" type="curve" smooth="yes"/>
       <point x="634" y="1154"/>
       <point x="620" y="1094"/>
       <point x="544" y="1094" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="548" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="548" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>R</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1096</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

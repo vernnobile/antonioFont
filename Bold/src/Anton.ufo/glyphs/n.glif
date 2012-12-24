@@ -25,34 +25,11 @@
       <point x="464" y="1500" type="line"/>
       <point x="110" y="1500" type="line"/>
     </contour>
+    <contour>
+      <point x="547" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="547" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>n</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1094</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

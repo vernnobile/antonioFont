@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="1302"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="420" y="126" type="curve" smooth="yes"/>
+      <point x="328" y="126"/>
+      <point x="306" y="200"/>
+      <point x="306" y="390" type="curve" smooth="yes"/>
+      <point x="306" y="516" type="line" smooth="yes"/>
+      <point x="306" y="701"/>
+      <point x="347" y="728"/>
+      <point x="582" y="834" type="curve"/>
+      <point x="582" y="834"/>
+      <point x="584.0" y="240.0"/>
+      <point x="584" y="240" type="curve"/>
+      <point x="543" y="162"/>
+      <point x="474" y="126"/>
+    </contour>
+    <contour>
+      <point x="750" y="879" type="line"/>
+      <point x="750" y="1062" type="line" smooth="yes"/>
+      <point x="750" y="1249"/>
+      <point x="766" y="1374"/>
+      <point x="893" y="1374" type="curve" smooth="yes"/>
+      <point x="1012" y="1374"/>
+      <point x="1012" y="1266"/>
+      <point x="1012" y="1070" type="curve" smooth="yes"/>
+      <point x="1012" y="879" type="line"/>
+    </contour>
+    <contour>
+      <point x="779" y="460" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

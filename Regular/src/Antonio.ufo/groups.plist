@@ -44,6 +44,7 @@
 	</array>
 	<key>@KERN_LEFT__empty_lu.0_st.1_cl.0</key>
 	<array>
+		<string></string>
 	</array>
 	<key>@KERN_LEFT_r</key>
 	<array>
@@ -120,6 +121,7 @@
 	</array>
 	<key>@KERN_RIGHT__empty_lu.0_st.1_cl.0</key>
 	<array>
+		<string></string>
 	</array>
 	<key>@KERN_RIGHT_a</key>
 	<array>

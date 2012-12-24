@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-647</integer>
 	<key>familyName</key>
-	<string>Antonio</string>
+	<string>Antonio Normal</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -27,7 +27,7 @@
 	<key>openTypeHheaAscender</key>
 	<integer>2408</integer>
 	<key>openTypeHheaCaretOffset</key>
-	<integer>0</integer>
+	<real>0.0</real>
 	<key>openTypeHheaCaretSlopeRise</key>
 	<integer>1</integer>
 	<key>openTypeHheaCaretSlopeRun</key>
@@ -44,6 +44,10 @@
 	<string>http://code.newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Vernon Adams</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Antonio</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Normal</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Anton: 2011</string>
 	<key>openTypeNameVersion</key>
@@ -87,7 +91,7 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1331</integer>
+	<real>1331</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>983</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
@@ -95,12 +99,6 @@
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>2408</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-647</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -131,7 +129,7 @@
 	<key>openTypeOS2WinDescent</key>
 	<integer>674</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.012375</real>
+	<real>0.0124</real>
 	<key>postscriptBlueShift</key>
 	<integer>0</integer>
 	<key>postscriptBlueValues</key>
@@ -164,18 +162,8 @@
 		<integer>-300</integer>
 		<integer>-220</integer>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-358</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
 	<key>postscriptWeightName</key>
-	<string>Normal</string>
+	<string>Bold</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -183,7 +171,7 @@
 	<key>trademark</key>
 	<string>Antonio is a trademark of vernon adams.</string>
 	<key>unitsPerEm</key>
-	<integer>2048</integer>
+	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
