@@ -6,4 +6,11 @@
     <component base="P"/>
     <component base="dotaccent" xOffset="163" yOffset="1760"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

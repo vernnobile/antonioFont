@@ -9,45 +9,55 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="64.0" />
-<data name="previewtext" value="HOKONIKO @ hokoniko kamera KAMERA" />
+<data name="previewtext" value="Montana farmyard" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561454657" />
+<data name="projectionAngle" value="2.68561526992" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Regular/src/Antonio.ufo">
+<master filename="polations/Antonio-Light.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="0" />
 </location>
-<!-- color for Regular/src/Antonio.ufo -->
-<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
+<!-- color for polations/Antonio-Light.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="0.500000" />
 </master>
-<master filename="Bold/src/Anton.ufo">
+<master filename="polations/Antonio-Normal.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
-<!-- color for Bold/src/Anton.ufo -->
-<color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
+<!-- color for polations/Antonio-Normal.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Antonio" sequence="" stylename="160">
+<instance familyname="Antonio" sequence="" stylename="Regular">
 <location>
 <dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="160" />
+<dimension name="new_axis_1" xvalue="200" />
 </location>
 </instance>
-<instance familyname="Antonio" sequence="" stylename="520">
+<instance familyname="Antonio" sequence="" stylename="Bold">
 <location>
 <dimension name="None" xvalue="0" />
 <dimension name="new_axis_1" xvalue="520" />
 </location>
 </instance>
-<instance familyname="Antonio" sequence="" stylename="880">
+<instance familyname="Antonio" sequence="" stylename="Black">
 <location>
 <dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="880" />
+<dimension name="new_axis_1" xvalue="780" />
+</location>
+</instance>
+<instance familyname="Antonio" sequence="" stylename="Light">
+<location>
+<dimension name="new_axis_1" xvalue="-100" />
+</location>
+</instance>
+<instance familyname="Antonio" sequence="" stylename="Heavy">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
 </location>
 </instance>
 </designspace>

@@ -4,12 +4,48 @@
   <unicode hex="00BC"/>
   <outline>
     <contour>
+      <point x="1188.72" y="0.32" type="line"/>
+      <point x="1294.8" y="0.32" type="line"/>
+      <point x="1294.8" y="235.6" type="line"/>
+      <point x="1397.48" y="235.6" type="line"/>
+      <point x="1397.48" y="325.36" type="line"/>
+      <point x="1294.8" y="325.36" type="line"/>
+      <point x="1294.8" y="1198.48" type="line"/>
+      <point x="1181.24" y="1198.48" type="line"/>
+      <point x="914.0" y="312.44" type="line"/>
+      <point x="914.0" y="235.6" type="line"/>
+      <point x="1188.72" y="235.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="261.75" y="438.0" type="line"/>
+      <point x="387.75" y="438.0" type="line"/>
+      <point x="387.75" y="1758.75" type="line"/>
+      <point x="306.75" y="1758.75" type="line"/>
+      <point x="264.75" y="1659.75"/>
+      <point x="177.75" y="1605.0"/>
+      <point x="98.25" y="1593.75" type="curve"/>
+      <point x="98.25" y="1511.25" type="line"/>
+      <point x="153.75" y="1511.25"/>
+      <point x="225.75" y="1533.0"/>
+      <point x="261.75" y="1575.75" type="curve"/>
+    </contour>
+    <contour>
       <point x="478" y="0" type="line"/>
       <point x="608" y="0" type="line"/>
       <point x="1075" y="1768" type="line"/>
       <point x="944" y="1768" type="line"/>
     </contour>
-    <component base="one" xScale="0.75" yScale="0.75" xOffset="60" yOffset="438"/>
-    <component base="four" xScale="0.68" yScale="0.68" xOffset="846" yOffset="1"/>
+    <contour>
+      <point x="1013.96" y="325.36" type="line"/>
+      <point x="1188.72" y="968.64" type="line"/>
+      <point x="1188.72" y="325.36" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

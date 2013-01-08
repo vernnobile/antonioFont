@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="860"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="398" y="-271" type="line"/>
+      <point x="505" y="-271" type="line"/>
+      <point x="505" y="17" type="line"/>
+      <point x="398" y="17" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="1468" type="line"/>
+      <point x="484" y="1468" type="line"/>
+      <point x="484" y="1760" type="line"/>
+      <point x="377" y="1760" type="line"/>
+    </contour>
+    <component base="s" yOffset="-2"/>
+  </outline>
+</glyph>

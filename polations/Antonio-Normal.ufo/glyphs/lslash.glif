@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="584"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="577" y="921" type="line"/>
+      <point x="577" y="1153" type="line"/>
+      <point x="11.0" y="921.0" type="line"/>
+      <point x="11.0" y="689.0" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

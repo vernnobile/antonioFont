@@ -132,6 +132,12 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
 	<key>styleMapStyleName</key>
