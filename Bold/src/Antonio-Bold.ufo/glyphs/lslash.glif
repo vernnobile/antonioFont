@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="648"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="591" y="960" type="line"/>
+      <point x="591" y="1153" type="line"/>
+      <point x="49" y="921" type="line"/>
+      <point x="49" y="728" type="line"/>
+    </contour>
+    <component base="l" xOffset="41"/>
+  </outline>
+</glyph>
