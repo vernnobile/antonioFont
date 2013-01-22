@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="825"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="9" y="1912" type="line"/>
+      <point x="144" y="2009" type="line"/>
+      <point x="332" y="1684" type="line"/>
+      <point x="265" y="1637" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="1912" type="line"/>
+      <point x="443" y="2009" type="line"/>
+      <point x="594" y="1684" type="line"/>
+      <point x="527" y="1637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1637</integer>
+	    <key>width</key>	    <integer>372</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>9</integer>
+	    <key>width</key>
+	    <integer>585</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
