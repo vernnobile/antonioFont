@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="613"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="comma" xOffset="352" yOffset="1610"/>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1610</integer>
+            <key>width</key>
+            <integer>173</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1763</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>162</integer>
+            <key>width</key>
+            <integer>150</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>495</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>514</integer>
+            <key>width</key>
+            <integer>77</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

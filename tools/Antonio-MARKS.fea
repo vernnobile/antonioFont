@@ -1,0 +1,41 @@
+
+lookup markMarkPositioninglookup2 {
+  lookupflag 0;
+  markClass [\circumflex ] <anchor 480 1465> @circumflex;
+  markClass [\ogonek ] <anchor 682 0> @ogonek;
+  markClass [\cedilla ] <anchor 459 0> @cedilla;
+  markClass [\hungarumlaut ] <anchor 557 820> @hungarumlaut;
+  pos base [\A ] <anchor 779 0> mark @ogonek;
+  pos base [\C ] <anchor 482 0> mark @cedilla;
+  pos base [\E ] <anchor 466 0> mark @ogonek;
+  pos base [\I ] <anchor 228 0> mark @ogonek;
+  pos base [\J ] <anchor 660 1746> mark @circumflex;
+  pos base [\O ] <anchor 440 -4> mark @ogonek
+	<anchor 503 1761> mark @hungarumlaut;
+  pos base [\S ] <anchor 433 0> mark @cedilla;
+  pos base [\U ] <anchor 490 0> mark @ogonek
+	<anchor 491 1760> mark @hungarumlaut;
+  pos base [\a ] <anchor 718 0> mark @ogonek;
+  pos base [\c ] <anchor 435 0> mark @cedilla;
+  pos base [\e ] <anchor 538 0> mark @ogonek;
+  pos base [\i ] <anchor 276 0> mark @ogonek;
+  pos base [\o ] <anchor 486 0> mark @ogonek
+	<anchor 470 1501> mark @hungarumlaut;
+  pos base [\s ] <anchor 399 0> mark @cedilla;
+  pos base [\u ] <anchor 742 0> mark @ogonek
+	<anchor 489 1500> mark @hungarumlaut;
+  pos base [\uni0237 ] <anchor 302 1491> mark @circumflex;
+} markMarkPositioninglookup2;
+
+feature mark {
+  script latn;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+  script grek;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+  script DFLT;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+
+} mark;

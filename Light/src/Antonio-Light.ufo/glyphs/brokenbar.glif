@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="1">
-  <advance width="530"/>
+  <advance width="480"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="122" y="1761" type="line"/>
-      <point x="275" y="1761" type="line"/>
-      <point x="275" y="931" type="line"/>
-      <point x="122" y="931" type="line"/>
+      <point x="166" y="1761" type="line"/>
+      <point x="314" y="1761" type="line"/>
+      <point x="314" y="931" type="line"/>
+      <point x="166" y="931" type="line"/>
     </contour>
     <contour>
-      <point x="122" y="724" type="line"/>
-      <point x="275" y="724" type="line"/>
-      <point x="275" y="-84" type="line"/>
-      <point x="122" y="-84" type="line"/>
+      <point x="166" y="724" type="line"/>
+      <point x="314" y="724" type="line"/>
+      <point x="314" y="-84" type="line"/>
+      <point x="166" y="-84" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1741</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>122</integer>
-	    <key>width</key>
-	    <integer>153</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1741</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>122</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

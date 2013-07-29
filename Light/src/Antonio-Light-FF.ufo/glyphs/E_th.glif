@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="941"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D" xOffset="27"/>
+    <component base="hyphen" xOffset="-72" yOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>128</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>821</integer>
+            <key>width</key>
+            <integer>116</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1636</integer>
+            <key>width</key>
+            <integer>124</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>37</integer>
+            <key>width</key>
+            <integer>478</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>193</integer>
+            <key>width</key>
+            <integer>148</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>656</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

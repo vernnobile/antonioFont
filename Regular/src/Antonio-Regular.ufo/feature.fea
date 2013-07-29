@@ -1,16 +1,18 @@
 
+languagesystem cyrl dflt;
 languagesystem DFLT dflt;
+languagesystem grek dflt;
 languagesystem latn dflt;
 
 # GPOS 
 
 
-lookup kernHorizontalKerninglookup0 {
+lookup kernHorizontalKerninginLatinloo {
   lookupflag 0;
-    pos \V \period -68;
     pos \V \comma -80;
-    pos \v \period -50;
+    pos \V \period -68;
     pos \v \comma -20;
+    pos \v \period -50;
   subtable;
     @kc1_first_1 = [\A \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron \Aogonek \Aring 
 	\Atilde \uni0200 \uni0202 ];
@@ -80,7 +82,7 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc1_first_1 @kc1_second_9 -17;
     pos @kc1_first_1 @kc1_second_10 -43;
     pos @kc1_first_1 @kc1_second_11 -51;
-    pos @kc1_first_1 @kc1_second_13 -44;
+    pos @kc1_first_1 @kc1_second_13 -61;
     pos @kc1_first_1 @kc1_second_14 -2;
     pos @kc1_first_1 @kc1_second_21 -132;
     pos @kc1_first_1 @kc1_second_22 -122;
@@ -109,7 +111,7 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc1_first_8 @kc1_second_7 -5;
     pos @kc1_first_8 @kc1_second_14 -9;
     pos @kc1_first_8 @kc1_second_17 -1;
-    pos @kc1_first_8 @kc1_second_19 -3;
+    pos @kc1_first_8 @kc1_second_19 -7;
     pos @kc1_first_9 @kc1_second_2 -17;
     pos @kc1_first_9 @kc1_second_3 -17;
     pos @kc1_first_9 @kc1_second_5 -21;
@@ -150,10 +152,12 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc1_first_14 @kc1_second_17 -6;
     pos @kc1_first_14 @kc1_second_18 -4;
     pos @kc1_first_14 @kc1_second_20 -40;
-    pos @kc1_first_15 @kc1_second_1 -36;
+    pos @kc1_first_15 @kc1_second_1 -45;
     pos @kc1_first_15 @kc1_second_5 -5;
     pos @kc1_first_15 @kc1_second_14 -13;
     pos @kc1_first_15 @kc1_second_16 -12;
+    pos @kc1_first_15 @kc1_second_17 -10;
+    pos @kc1_first_15 @kc1_second_19 -10;
     pos @kc1_first_15 @kc1_second_20 -8;
     pos @kc1_first_15 @kc1_second_23 -9;
     pos @kc1_first_16 @kc1_second_16 -30;
@@ -161,6 +165,7 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc1_first_17 @kc1_second_20 -40;
     pos @kc1_first_18 @kc1_second_21 10;
     pos @kc1_first_18 @kc1_second_22 14;
+    pos @kc1_first_19 @kc1_second_14 -10;
     pos @kc1_first_19 @kc1_second_17 -3;
     pos @kc1_first_19 @kc1_second_19 -2;
     pos @kc1_first_20 @kc1_second_14 -7;
@@ -178,18 +183,61 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc1_first_23 @kc1_second_16 -50;
     pos @kc1_first_23 @kc1_second_19 -5;
     pos @kc1_first_23 @kc1_second_20 -85;
-} kernHorizontalKerninglookup0;
+} kernHorizontalKerninginLatinloo;
+
+lookup markMarkPositioninglookup2 {
+  lookupflag 0;
+  markClass [\ogonek ] <anchor 379 0> @ogonek;
+  markClass [\cedilla ] <anchor 120 0> @cedilla;
+  markClass [\uni0302 ] <anchor 368 1225> @circumflexcomb;
+  pos base [\A ] <anchor 761 0> mark @ogonek;
+  pos base [\C ] <anchor 480 0> mark @cedilla;
+  pos base [\E \o ] <anchor 471 0> mark @ogonek;
+  pos base [\I ] <anchor 248 0> mark @ogonek;
+  pos base [\J ] <anchor 628 1800> mark @circumflexcomb;
+  pos base [\O ] <anchor 481 0> mark @ogonek;
+  pos base [\S ] <anchor 430 0> mark @cedilla;
+  pos base [\T ] <anchor 321 0> mark @cedilla;
+  pos base [\U ] <anchor 482 0> mark @ogonek;
+  pos base [\a ] <anchor 676 0> mark @ogonek;
+  pos base [\c ] <anchor 460 0> mark @cedilla;
+  pos base [\e ] <anchor 478 0> mark @ogonek;
+  pos base [\i ] <anchor 246 0> mark @ogonek;
+  pos base [\s ] <anchor 450 0> mark @cedilla;
+  pos base [\t ] <anchor 390 0> mark @cedilla;
+  pos base [\u ] <anchor 713 0> mark @ogonek;
+  pos base [\uni0237 ] <anchor 294 1496> mark @circumflexcomb;
+} markMarkPositioninglookup2;
 
 feature kern {
 
  script DFLT;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninginLatinloo;
 
  script latn;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninginLatinloo;
 } kern;
+
+feature mark {
+
+ script DFLT;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+
+ script cyrl;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+
+ script grek;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+
+ script latn;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+} mark;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 
@@ -241,9 +289,10 @@ feature kern {
 	\uni2215 \uniF8FF \uniFB00 \uniFB01 \uniFB02 \uniFB03 \uniFB04 \uogonek \uring 
 	\utilde \v \w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute \ycircumflex 
 	\ydieresis \yen \ygrave \z \zacute \zcaron \zdotaccent \zero ];
+@GDEF_Mark = [\uni0302 ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
 

@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="120823_1018_beta_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Holenousa" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="0.392699081699" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Regular/src/Antonio-Regular-FF.ufo">
+<location>
+</location>
+<!-- color for Regular/src/Antonio-Regular-FF.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Bold/src/Antonio-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for Bold/src/Antonio-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Antonio" sequence="" stylename="800">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="2384.6864" />
+</location>
+</instance>
+<instance familyname="Antonio" sequence="" stylename="900">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="3000" />
+</location>
+</instance>
+</designspace>

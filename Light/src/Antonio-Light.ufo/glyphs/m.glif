@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1362"/>
+  <advance width="1360"/>
   <unicode hex="006D"/>
   <outline>
     <contour>
@@ -46,42 +46,51 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1381</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1480</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>160</integer>
-	    <key>width</key>
-	    <integer>149</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>611</integer>
-	    <key>width</key>
-	    <integer>149</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1062</integer>
-	    <key>width</key>
-	    <integer>150</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1381</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1480</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>160</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>611</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1062</integer>
+            <key>width</key>
+            <integer>150</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

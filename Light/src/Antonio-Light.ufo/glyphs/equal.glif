@@ -4,42 +4,49 @@
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="104" y="1025" type="line"/>
-      <point x="618" y="1025" type="line"/>
-      <point x="618" y="892" type="line"/>
-      <point x="104" y="892" type="line"/>
+      <point x="94" y="1025" type="line"/>
+      <point x="628" y="1025" type="line"/>
+      <point x="628" y="896" type="line"/>
+      <point x="94" y="896" type="line"/>
     </contour>
     <contour>
-      <point x="104" y="733" type="line"/>
-      <point x="618" y="733" type="line"/>
-      <point x="618" y="601" type="line"/>
-      <point x="104" y="601" type="line"/>
+      <point x="94" y="729" type="line"/>
+      <point x="628" y="729" type="line"/>
+      <point x="628" y="601" type="line"/>
+      <point x="94" y="601" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>601</integer>
-	    <key>width</key>	    <integer>132</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>892</integer>
-	    <key>width</key>	    <integer>133</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>104</integer>
-	    <key>width</key>
-	    <integer>514</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>601</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>892</integer>
+            <key>width</key>
+            <integer>133</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>104</integer>
+            <key>width</key>
+            <integer>514</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

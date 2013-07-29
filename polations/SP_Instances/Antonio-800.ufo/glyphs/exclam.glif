@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="495"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="72" y="1762" type="line"/>
+      <point x="424" y="1762" type="line"/>
+      <point x="325" y="462" type="line"/>
+      <point x="179" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="295" type="line"/>
+      <point x="404" y="295" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

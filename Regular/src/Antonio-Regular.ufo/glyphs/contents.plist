@@ -862,5 +862,7 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>uni0302</key>
+	<string>uni0302.glif</string>
     </dict>
 </plist>

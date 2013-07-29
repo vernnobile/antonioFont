@@ -4,41 +4,46 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="189" y="1783" type="line"/>
-      <point x="460" y="1783" type="line"/>
-      <point x="460" y="1590" type="line"/>
-      <point x="346" y="1164" type="line"/>
-      <point x="240" y="1164" type="line"/>
-      <point x="331" y="1581" type="line"/>
-      <point x="189" y="1581" type="line"/>
+      <point x="189" y="1782" type="line"/>
+      <point x="460" y="1782" type="line"/>
+      <point x="460" y="1589" type="line"/>
+      <point x="346" y="1163" type="line"/>
+      <point x="240" y="1163" type="line"/>
+      <point x="331" y="1580" type="line"/>
+      <point x="189" y="1580" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1581</integer>
-	    <key>width</key>	    <integer>202</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>189</integer>
-	    <key>width</key>
-	    <integer>271</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>240</integer>
-	    <key>width</key>
-	    <integer>106</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1581</integer>
+            <key>width</key>
+            <integer>202</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>189</integer>
+            <key>width</key>
+            <integer>271</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>240</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

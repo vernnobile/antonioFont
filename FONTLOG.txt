@@ -1,0 +1,9 @@
+version 1.0 December 2012
+Initial release - 3 weights
+Light (300)
+Regular (400)
+Bold (700)
+
+29th July 2013
+1.01
+improvements made to metrics and some diacritics.

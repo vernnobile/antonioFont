@@ -4,32 +4,37 @@
   <unicode hex="0307"/>
   <outline>
     <contour>
-      <point x="147" y="260" type="line"/>
-      <point x="425" y="260" type="line"/>
-      <point x="425" y="-8" type="line"/>
-      <point x="147" y="-8" type="line"/>
+      <point x="215" y="310" type="line"/>
+      <point x="383" y="310" type="line"/>
+      <point x="383" y="-8" type="line"/>
+      <point x="215" y="-8" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-8</integer>
-	    <key>width</key>	    <integer>268</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>147</integer>
-	    <key>width</key>
-	    <integer>278</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-8</integer>
+            <key>width</key>
+            <integer>268</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>147</integer>
+            <key>width</key>
+            <integer>278</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

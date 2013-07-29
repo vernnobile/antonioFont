@@ -10,62 +10,75 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-339</integer>
-	    <key>width</key>	    <integer>192</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-20</integer>
-	    <key>width</key>	    <integer>122</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>763</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1660</integer>
-	    <key>width</key>	    <integer>122</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>134</integer>
-	    <key>width</key>
-	    <integer>149</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>368</integer>
-	    <key>width</key>
-	    <integer>197</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>425</integer>
-	    <key>width</key>
-	    <integer>62</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>599</integer>
-	    <key>width</key>
-	    <integer>148</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>649</integer>
-	    <key>width</key>
-	    <integer>98</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-339</integer>
+            <key>width</key>
+            <integer>192</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>763</integer>
+            <key>width</key>
+            <integer>127</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1660</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>134</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>368</integer>
+            <key>width</key>
+            <integer>197</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>425</integer>
+            <key>width</key>
+            <integer>62</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>599</integer>
+            <key>width</key>
+            <integer>148</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>649</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>
