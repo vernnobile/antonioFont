@@ -6,4 +6,41 @@
     <component base="caron" xOffset="-142" yOffset="48"/>
     <component base="z"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>175</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1323</integer>
+	    <key>width</key>	    <integer>177</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1640</integer>
+	    <key>width</key>	    <integer>294</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>72</integer>
+	    <key>width</key>
+	    <integer>542</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>73</integer>
+	    <key>width</key>
+	    <integer>539</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

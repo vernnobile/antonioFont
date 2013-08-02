@@ -6,4 +6,67 @@
     <component base="a"/>
     <component base="ring" xOffset="17.5" yOffset="734"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-15</integer>
+	    <key>width</key>	    <integer>204</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1304</integer>
+	    <key>width</key>	    <integer>214</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1640</integer>
+	    <key>width</key>	    <integer>94</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1995</integer>
+	    <key>width</key>	    <integer>93</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>101</integer>
+	    <key>width</key>
+	    <integer>270</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>121</integer>
+	    <key>width</key>
+	    <integer>262</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>246</integer>
+	    <key>width</key>
+	    <integer>115</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>585</integer>
+	    <key>width</key>
+	    <integer>271</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>598</integer>
+	    <key>width</key>
+	    <integer>113</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

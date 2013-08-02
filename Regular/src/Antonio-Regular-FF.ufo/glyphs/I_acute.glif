@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="507"/>
+  <advance width="495"/>
   <unicode hex="00CD"/>
   <outline>
     <component base="I"/>
-    <component base="acute" xOffset="32" yOffset="563"/>
+    <component base="acute" xOffset="26" yOffset="563"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1740</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1904</integer>
+	    <key>width</key>	    <integer>419</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>144</integer>
+	    <key>width</key>
+	    <integer>207</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>192</integer>
+	    <key>width</key>
+	    <integer>285</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

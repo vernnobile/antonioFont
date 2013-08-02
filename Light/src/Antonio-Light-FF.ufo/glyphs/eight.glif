@@ -16,9 +16,9 @@
       <point x="717" y="1126"/>
       <point x="717" y="1347" type="curve" smooth="yes"/>
       <point x="717" y="1650"/>
-      <point x="629" y="1782"/>
-      <point x="424" y="1782" type="curve" smooth="yes"/>
-      <point x="217" y="1782"/>
+      <point x="629" y="1783"/>
+      <point x="424" y="1783" type="curve" smooth="yes"/>
+      <point x="217" y="1783"/>
       <point x="128" y="1650"/>
       <point x="128" y="1347" type="curve" smooth="yes"/>
       <point x="128" y="1121"/>
@@ -37,19 +37,19 @@
       <point x="423" y="103" type="curve" smooth="yes"/>
       <point x="310" y="103"/>
       <point x="261" y="200"/>
-      <point x="259" y="428" type="curve"/>
-      <point x="259.0" y="442.294841662"/>
-      <point x="259.104866753" y="456.210878932"/>
-      <point x="259.316283364" y="469.752567091" type="curve" smooth="yes"/>
-      <point x="263.674888199" y="748.930570414"/>
-      <point x="313.320086703" y="869.0"/>
+      <point x="259" y="428" type="curve" smooth="yes"/>
+      <point x="259" y="442.295"/>
+      <point x="259.105" y="456.211"/>
+      <point x="259.316" y="469.753" type="curve" smooth="yes"/>
+      <point x="263.675" y="748.931"/>
+      <point x="313.32" y="869"/>
       <point x="423" y="869" type="curve" smooth="yes"/>
-      <point x="521.910121918" y="869.0"/>
-      <point x="567.453978964" y="752.317827654"/>
-      <point x="572.535247226" y="481.962944846" type="curve" smooth="yes"/>
-      <point x="572.796727401" y="468.05058314"/>
-      <point x="572.951058865" y="453.731281757"/>
-      <point x="573" y="439" type="curve"/>
+      <point x="521.91" y="869"/>
+      <point x="567.454" y="752.318"/>
+      <point x="572.535" y="481.963" type="curve" smooth="yes"/>
+      <point x="572.797" y="468.051"/>
+      <point x="572.951" y="453.731"/>
+      <point x="573" y="439" type="curve" smooth="yes"/>
       <point x="572" y="204"/>
       <point x="527" y="103"/>
     </contour>
@@ -72,48 +72,42 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>123</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>869</integer>
-            <key>width</key>
-            <integer>113</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1653</integer>
-            <key>width</key>
-            <integer>129</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>110</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>128</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>568</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>123</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>869</integer>
+	    <key>width</key>	    <integer>113</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1653</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>110</integer>
+	    <key>width</key>
+	    <integer>149</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>128</integer>
+	    <key>width</key>
+	    <integer>149</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>568</integer>
+	    <key>width</key>
+	    <integer>149</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

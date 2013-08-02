@@ -6,4 +6,53 @@
     <component base="W"/>
     <component base="dieresis" xOffset="192.018" yOffset="1000"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1740</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1903</integer>
+	    <key>width</key>	    <integer>226</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>46</integer>
+	    <key>width</key>
+	    <integer>240</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>297</integer>
+	    <key>width</key>
+	    <integer>282</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>781</integer>
+	    <key>width</key>
+	    <integer>282</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1074</integer>
+	    <key>width</key>
+	    <integer>241</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

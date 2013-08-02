@@ -3,12 +3,45 @@
   <advance width="879"/>
   <unicode hex="00F8"/>
   <outline>
-    <contour>
-      <point x="258" y="-173" type="line"/>
-      <point x="768" y="1644" type="line"/>
-      <point x="667" y="1672" type="line"/>
-      <point x="158" y="-145" type="line"/>
-    </contour>
     <component base="o"/>
+    <contour>
+      <point x="158" y="-145" type="line"/>
+      <point x="667" y="1672" type="line"/>
+      <point x="768" y="1644" type="line"/>
+      <point x="258" y="-173" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>171</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1347</integer>
+	    <key>width</key>	    <integer>171</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>124</integer>
+	    <key>width</key>
+	    <integer>206</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>584</integer>
+	    <key>width</key>
+	    <integer>206</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

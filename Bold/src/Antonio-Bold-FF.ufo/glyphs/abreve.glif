@@ -6,4 +6,63 @@
     <component base="a"/>
     <component base="breve" xOffset="-28.5" yOffset="25"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-15</integer>
+	    <key>width</key>	    <integer>204</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1304</integer>
+	    <key>width</key>	    <integer>214</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1640</integer>
+	    <key>width</key>	    <integer>145</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>101</integer>
+	    <key>width</key>
+	    <integer>270</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>121</integer>
+	    <key>width</key>
+	    <integer>262</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>196</integer>
+	    <key>width</key>
+	    <integer>150</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>585</integer>
+	    <key>width</key>
+	    <integer>271</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>610</integer>
+	    <key>width</key>
+	    <integer>151</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

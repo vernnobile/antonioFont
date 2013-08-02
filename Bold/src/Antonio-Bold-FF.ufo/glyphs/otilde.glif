@@ -6,4 +6,51 @@
     <component base="o"/>
     <component base="tilde" xOffset="-72.5" yOffset="734"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>214</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1304</integer>
+	    <key>width</key>	    <integer>214</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1640</integer>
+	    <key>width</key>	    <integer>181</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1722</integer>
+	    <key>width</key>	    <integer>173</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>110</integer>
+	    <key>width</key>
+	    <integer>267</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>593</integer>
+	    <key>width</key>
+	    <integer>267</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>678</integer>
+	    <key>width</key>
+	    <integer>142</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

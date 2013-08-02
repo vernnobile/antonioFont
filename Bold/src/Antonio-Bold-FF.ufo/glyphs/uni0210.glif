@@ -6,4 +6,45 @@
     <component base="R"/>
     <component base="dblgravecmb" xOffset="79.5" yOffset="259"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>827</integer>
+	    <key>width</key>	    <integer>212</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1554</integer>
+	    <key>width</key>	    <integer>206</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1903</integer>
+	    <key>width</key>	    <integer>465</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>132</integer>
+	    <key>width</key>
+	    <integer>268</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>627</integer>
+	    <key>width</key>
+	    <integer>265</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

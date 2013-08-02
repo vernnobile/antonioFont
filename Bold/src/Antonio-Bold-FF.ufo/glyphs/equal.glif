@@ -16,4 +16,31 @@
       <point x="104" y="892" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>549</integer>
+	    <key>width</key>	    <integer>189</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>892</integer>
+	    <key>width</key>	    <integer>184</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>104</integer>
+	    <key>width</key>
+	    <integer>514</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,4 +6,47 @@
     <component base="dotlessi"/>
     <component base="uni0311" xOffset="-237.996" yOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1480</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1771</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-14</integer>
+	    <key>width</key>
+	    <integer>151</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>136</integer>
+	    <key>width</key>
+	    <integer>265</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>400</integer>
+	    <key>width</key>
+	    <integer>151</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

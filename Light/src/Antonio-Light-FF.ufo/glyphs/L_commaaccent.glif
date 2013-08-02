@@ -10,48 +10,42 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-314</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>118</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1740</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>166</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>298</integer>
-            <key>width</key>
-            <integer>197</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>355</integer>
-            <key>width</key>
-            <integer>62</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-314</integer>
+	    <key>width</key>	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>118</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1740</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>166</integer>
+	    <key>width</key>
+	    <integer>149</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>298</integer>
+	    <key>width</key>
+	    <integer>197</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>355</integer>
+	    <key>width</key>
+	    <integer>62</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

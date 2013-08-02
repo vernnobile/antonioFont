@@ -66,8 +66,8 @@
     <contour>
       <point x="568" y="0" type="line"/>
       <point x="686" y="0" type="line"/>
-      <point x="1147" y="1782" type="line"/>
-      <point x="1027" y="1782" type="line"/>
+      <point x="1147" y="1783" type="line"/>
+      <point x="1027" y="1783" type="line"/>
     </contour>
     <contour>
       <point x="1086" y="326" type="line"/>
@@ -79,66 +79,42 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>244</integer>
-            <key>width</key>
-            <integer>82</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>551</integer>
-            <key>width</key>
-            <integer>87</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1157</integer>
-            <key>width</key>
-            <integer>87</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1711</integer>
-            <key>width</key>
-            <integer>89</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1762</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>147</integer>
-            <key>width</key>
-            <integer>105</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>475</integer>
-            <key>width</key>
-            <integer>105</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1269</integer>
-            <key>width</key>
-            <integer>94</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>551</integer>
+	    <key>width</key>	    <integer>87</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1157</integer>
+	    <key>width</key>	    <integer>87</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1711</integer>
+	    <key>width</key>	    <integer>89</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>147</integer>
+	    <key>width</key>
+	    <integer>105</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>475</integer>
+	    <key>width</key>
+	    <integer>105</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1269</integer>
+	    <key>width</key>
+	    <integer>94</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

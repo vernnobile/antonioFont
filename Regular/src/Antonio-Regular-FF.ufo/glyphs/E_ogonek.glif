@@ -6,4 +6,55 @@
     <component base="E"/>
     <component base="ogonek" xOffset="92"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-626</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>814</integer>
+	    <key>width</key>	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1588</integer>
+	    <key>width</key>	    <integer>172</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>144</integer>
+	    <key>width</key>
+	    <integer>207</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>144</integer>
+	    <key>width</key>
+	    <integer>530</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>161</integer>
+	    <key>width</key>
+	    <integer>158</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/07/29 14:41:39</string>
+	<string>2013/07/29 19:01:03</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -73,9 +73,38 @@
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>1500</integer>
+		<integer>1518</integer>
+		<integer>1760</integer>
+		<integer>1781</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-285</integer>
+		<integer>-225</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>20</integer>
+		<integer>214</integer>
+		<integer>226</integer>
+		<integer>231</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>268</integer>
+	</array>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
 	<key>postscriptBlueShift</key>
-	<integer>0</integer>
+	<integer>7</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.0124</real>
+	<real>0.039625</real>
+	<key>postscriptForceBold</key>
+	<true/>
     </dict>
 </plist>

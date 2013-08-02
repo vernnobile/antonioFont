@@ -4,18 +4,55 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="144" y="0" type="line"/>
-      <point x="674" y="0" type="line"/>
-      <point x="674" y="172" type="line"/>
-      <point x="351" y="172" type="line"/>
-      <point x="351" y="814" type="line"/>
-      <point x="653" y="814" type="line"/>
-      <point x="653" y="986" type="line"/>
-      <point x="351" y="986" type="line"/>
-      <point x="351" y="1588" type="line"/>
-      <point x="670" y="1588" type="line"/>
-      <point x="670" y="1760" type="line"/>
       <point x="144" y="1760" type="line"/>
+      <point x="670" y="1760" type="line"/>
+      <point x="670" y="1588" type="line"/>
+      <point x="351" y="1588" type="line"/>
+      <point x="351" y="986" type="line"/>
+      <point x="653" y="986" type="line"/>
+      <point x="653" y="814" type="line"/>
+      <point x="351" y="814" type="line"/>
+      <point x="351" y="172" type="line"/>
+      <point x="674" y="172" type="line"/>
+      <point x="674" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>814</integer>
+	    <key>width</key>	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1588</integer>
+	    <key>width</key>	    <integer>172</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>144</integer>
+	    <key>width</key>
+	    <integer>530</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>144</integer>
+	    <key>width</key>
+	    <integer>207</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

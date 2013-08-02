@@ -6,4 +6,61 @@
     <component base="N"/>
     <component base="j" xOffset="1014"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-200</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1480</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1638</integer>
+	    <key>width</key>	    <integer>188</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1740</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>144</integer>
+	    <key>width</key>
+	    <integer>191</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>687</integer>
+	    <key>width</key>
+	    <integer>183</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>718</integer>
+	    <key>width</key>
+	    <integer>152</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1184</integer>
+	    <key>width</key>
+	    <integer>205</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,4 +6,47 @@
     <component base="acute" xOffset="228" yOffset="299"/>
     <component base="c"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>176</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1342</integer>
+	    <key>width</key>	    <integer>176</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1640</integer>
+	    <key>width</key>	    <integer>419</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>124</integer>
+	    <key>width</key>
+	    <integer>206</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>394</integer>
+	    <key>width</key>
+	    <integer>285</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>573</integer>
+	    <key>width</key>
+	    <integer>202</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

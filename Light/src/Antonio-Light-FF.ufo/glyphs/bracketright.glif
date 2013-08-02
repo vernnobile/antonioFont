@@ -6,8 +6,8 @@
     <contour>
       <point x="60" y="-80" type="line"/>
       <point x="423" y="-80" type="line"/>
-      <point x="423" y="1761" type="line"/>
-      <point x="60" y="1761" type="line"/>
+      <point x="423" y="1760" type="line"/>
+      <point x="60" y="1760" type="line"/>
       <point x="60" y="1646" type="line"/>
       <point x="274" y="1646" type="line"/>
       <point x="274" y="35" type="line"/>
@@ -18,36 +18,15 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-80</integer>
-            <key>width</key>
-            <integer>115</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1646</integer>
-            <key>width</key>
-            <integer>115</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>60</integer>
-            <key>width</key>
-            <integer>363</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>274</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-        </array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>60</integer>
+	    <key>width</key>
+	    <integer>363</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

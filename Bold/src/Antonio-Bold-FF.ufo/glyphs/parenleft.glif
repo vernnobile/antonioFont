@@ -22,4 +22,31 @@
       <point x="129" y="313" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-136</integer>
+	    <key>width</key>	    <integer>200</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1623</integer>
+	    <key>width</key>	    <integer>200</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>129</integer>
+	    <key>width</key>
+	    <integer>266</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

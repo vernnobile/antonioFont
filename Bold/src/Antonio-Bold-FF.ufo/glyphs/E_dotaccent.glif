@@ -6,4 +6,51 @@
     <component base="E"/>
     <component base="uni0307" xOffset="147" yOffset="948"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>231</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>791</integer>
+	    <key>width</key>	    <integer>226</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1529</integer>
+	    <key>width</key>	    <integer>231</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1903</integer>
+	    <key>width</key>	    <integer>298</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>132</integer>
+	    <key>width</key>
+	    <integer>268</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>132</integer>
+	    <key>width</key>
+	    <integer>602</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>254</integer>
+	    <key>width</key>
+	    <integer>358</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

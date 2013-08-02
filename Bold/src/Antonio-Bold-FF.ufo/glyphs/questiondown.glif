@@ -5,4 +5,43 @@
   <outline>
     <component base="question" xScale="-1" yScale="-1" xOffset="976" yOffset="1498"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-283</integer>
+	    <key>width</key>	    <integer>232</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1199</integer>
+	    <key>width</key>	    <integer>299</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>161</integer>
+	    <key>width</key>
+	    <integer>268</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>487</integer>
+	    <key>width</key>
+	    <integer>232</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>595</integer>
+	    <key>width</key>
+	    <integer>261</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

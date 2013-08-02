@@ -73,9 +73,38 @@
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>1500</integer>
+		<integer>1518</integer>
+		<integer>1760</integer>
+		<integer>1782</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-274</integer>
+		<integer>-229</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>20</integer>
+		<integer>142</integer>
+		<integer>159</integer>
+		<integer>164</integer>
+		<integer>172</integer>
+		<integer>178</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>207</integer>
+	</array>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
 	<key>postscriptBlueShift</key>
-	<integer>0</integer>
+	<integer>7</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.0124</real>
+	<real>0.039625</real>
     </dict>
 </plist>

@@ -42,4 +42,37 @@
       <point x="443" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>201</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1376</integer>
+	    <key>width</key>	    <integer>231</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>72</integer>
+	    <key>width</key>
+	    <integer>279</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>641</integer>
+	    <key>width</key>
+	    <integer>279</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
