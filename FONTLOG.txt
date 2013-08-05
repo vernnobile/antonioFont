@@ -5,5 +5,10 @@ Regular (400)
 Bold (700)
 
 29th July 2013
-1.01
+1.00
 improvements made to metrics and some diacritics.
+
+
+3rd August 2013
+1.01
+Minor fixed to names table (see http://forum.fontlab.com/index.php?topic=313.0)
